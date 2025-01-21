@@ -1,0 +1,10 @@
+What is Linux?
+What are the key features of Linux?
+What is the difference between Linux and Unix?
+What is the structure of a Linux file system?
+What are file permissions in Linux?
+How do you check disk usage in Linux?
+What are some common Linux commands?
+What is a shell in Linux?
+What is the difference between symbolic and hard links in Linux?
+How is process management done in Linux?
