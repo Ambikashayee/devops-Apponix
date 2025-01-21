@@ -1,0 +1,11 @@
+1.	What is AWS?
+2.	What are the main benefits of using AWS?
+3.	What are AWS Regions and Availability Zones?
+4.	What is EC2 in AWS?
+5.	What is S3, and how does it work?
+6.	What is the difference between Elastic Beanstalk and CloudFormation?
+7.	What are IAM roles and policies in AWS?
+8.	What is AWS Lambda, and how does it work?
+9.	How does Amazon RDS differ from DynamoDB?
+10.	What is the purpose of CloudWatch in AWS?
+
